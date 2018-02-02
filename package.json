@@ -1,0 +1,23 @@
+{
+  "name": "chatrealtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamarelo/chatRealTime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eamarelo/chatRealTime/issues"
+  },
+  "homepage": "https://github.com/eamarelo/chatRealTime#readme",
+  "dependencies": {
+    "eslint": "^4.16.0",
+    "socket.io": "^2.0.4"
+  }
+}
